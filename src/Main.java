@@ -27,7 +27,6 @@ class Triangles {
         triangle((x + x2) / 2.0, (y + y) / 2.0, s / 2.0, n - 1);
         triangle((x + x3) / 2.0, (y + y3) / 2.0, s / 2.0, n - 1);
 
-
     }
 
     public static void main(String[] args) {
