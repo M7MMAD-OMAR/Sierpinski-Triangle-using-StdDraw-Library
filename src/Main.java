@@ -11,7 +11,7 @@ class Triangles {
 
 
         StdDraw.setPenColor(Color.black);
-        StdDraw.setPenRadius(.0005);
+        StdDraw.setPenRadius(.005);
 
         //triangle coordinates
         double x2 = x + s;
